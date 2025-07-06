@@ -9,7 +9,7 @@
 <p>
   
   - 💻 Developed in <strong>Python</strong>, by <a href="https://discord.gg/JAU2hJduGR">Sanzokua & MyDream</a><br>
-  -  ❗  This tool combines several features and is meant for <strong>legal and ethical use only. The author is not responsible for any misuse.<strong>.<br>
+  -   ❗  This tool combines several features and is meant for <strong>legal and ethical use only. The author is not responsible for any misuse.<strong>.<br>
   - 💭 Tool in <strong>English</strong>.<br>
   - 🔰 <strong>Frequently updated</strong>.<br>
   - 🔨 The tools include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord</strong>, And more..
