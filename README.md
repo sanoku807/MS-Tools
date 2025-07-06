@@ -17,6 +17,10 @@
   - 🔰 <strong>Frequently updated</strong>.<br>
   
   - 🔨 The tools include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord</strong>, And more..
+
+   <p align="center">
+   <a href="https://discord.gg/JAU2hJduGR">>>Discord<<</a>
+</p>
   <br><br>
 </p>
 
