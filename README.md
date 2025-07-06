@@ -196,5 +196,6 @@
   - This project has been created with good intentions and is intended for personal use only.<br>
   - By choosing to use MS-Tools, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
   - All scripts in the "<a href="">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+  - You need to download the tools by clicking on the release.<br>
 <br><br>
 </p>
