@@ -115,7 +115,7 @@
 │   │      ├── Discord Token House Changer
 │   │      ├── Discord Token Theme Changer
 │   │      ├── Discord Token Generator
-|   |      └── Discord RAT
+│   │      └── Discord RAT
 │   │
 │   ├── Bot Discord
 │   │      ├── Discord Bot Server Nuker
@@ -132,10 +132,10 @@
 │   └── Discord Nitro Generator
 │
 └── 🎮 - Roblox Tools
-|      ├── Roblox Cookie Login
-|      ├── Roblox Cookie Info
-|      ├── Roblox User Info
-|      └── Roblox Id Info
+│      ├── Roblox Cookie Login
+│      ├── Roblox Cookie Info
+│      ├── Roblox User Info
+│      └── Roblox Id Info
 │
 └── 👻 - Cheat Menu
 │      ├── Valorant
