@@ -34,11 +34,11 @@
 <p>
    
 ```
-┌── ⚒️ - MS-Tool
+┌── 👑 - MS-Tool
 │      ├── Info
 │      └── Site
 │
-├── 🕵️‍♂️ - Network Scanner
+├── 💻 - Network Scanner
 │      ├── Sql Vulnerability Scanner
 │      ├── Website Scanner
 │      ├── Website Url Scanner
