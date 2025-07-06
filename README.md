@@ -3,12 +3,12 @@
 <h1 align="center">MS-Tools</h1>
 
 <p align="center">
-   <a href="https://discord.gg/JAU2hJduGR">Discord</a>
+   <a href="https://discord.gg/JAU2hJduGR">>>Discord<<</a>
 </p>
 
 <p>
   
-  - 💻 Developed in <strong>Python</strong>, by <a href="https://discord.gg/JAU2hJduGR">Sanzokua and MyDream</a><br>
+  - 💻 Developed in <strong>Python</strong>, by <a href="https://discord.gg/JAU2hJduGR">Sanzokua & MyDream</a><br>
   -  ❗ This tool combines several features and is meant for legal and ethical use only. The author is not responsible for any misuse.
   - 💭 Tool in <strong>English</strong>.<br>
   - 🔰 <strong>Frequently updated</strong>.<br>
