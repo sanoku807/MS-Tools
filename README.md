@@ -1,20 +1,17 @@
 <img align="center" src="Img/Banner.png" width="100%"> 
 
-<h1 align="center">Multi-Tools</h1>
+<h1 align="center">MS-Tools</h1>
 
 <p align="center">
-   <a href="https://discord.gg/JAU2hJduGR">Discord</a> ・ <a href="https://discord.gg/JAU2hJduGR">Website</a> ・ <a href="https://discord.gg/5CuAbm34RD">Reviews</a>
+   <a href="https://discord.gg/JAU2hJduGR">Discord</a>
 </p>
 
 <p>
   
-  - Developed in <strong>Python</strong>, by <a href="https://discord.gg/JAU2hJduGR">M and S</a><br>
-  - Tool in <strong>English</strong>.<br>
-  - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
-  - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
-  - <strong>Open Source</strong> only for verification, ensuring no malicious programs.<br>
+  - 💻 Developed in <strong>Python</strong>, by <a href="https://discord.gg/JAU2hJduGR">Sanzokua and MyDream</a><br>
+  -  ❗ This tool combines several features and is meant for legal and ethical use only. The author is not responsible for any misuse.
+  - 💭 Tool in <strong>English</strong>.<br>
   - <strong>Frequently updated</strong>.<br>
-  - <strong>Free</strong> for everyone.<br>
   - The tools include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord</strong>, And more..
   <br><br>
 </p>
