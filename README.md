@@ -2,6 +2,7 @@
 
 <h1 align="center">MS-Tools</h1>
 
+
 <p align="center">
    <a href="https://discord.gg/JAU2hJduGR">>>Discord<<</a>
 </p>
@@ -18,11 +19,6 @@
   
   - 🔨 The tools include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord</strong>, And more..
 
-
-
-   <p align="center">
-   <a href="https://discord.gg/JAU2hJduGR">>>Discord<<</a>
-</p>
   <br><br>
 </p>
 
