@@ -4,7 +4,7 @@
 
 
 <p align="center">
-   <a href="https://discord.gg/JAU2hJduGR">>>Discord<<</a>
+   <a href="https://discord.gg/JAU2hJduGR">>Discord<</a>
 </p>
 
 <p>
