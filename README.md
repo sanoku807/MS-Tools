@@ -8,7 +8,7 @@
 </p>
 
 <p>
--> ⛔ You need to download the tools by clicking on the release ⛔ <- <br>
+"center"-> ⛔ You need to download the tools by clicking on the release ⛔ <- <br>
 
 
   - 💻 Developed in <strong>Python</strong>, by <a href="https://discord.gg/JAU2hJduGR">Sanzokua & MyDream</a><br>
