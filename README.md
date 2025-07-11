@@ -8,7 +8,7 @@
 </p>
 
 <p>
-<p align="center"> ⛔ You need to download the tools by click <a href="https://discord.gg/JAU2hJduGR">Here</a>
+<p align="center"> ⛔ You need to download the tools by click <a href="https://github.com/sanoku807/MS-Tools/releases/tag/Hack">Here</a>
 
 
   - 💻 Developed in <strong>Python</strong>, by Sanzokua & MyDream<br>
