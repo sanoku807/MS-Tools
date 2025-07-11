@@ -8,7 +8,8 @@
 </p>
 
 <p>
-  
+  - ⛔ You need to download the tools by clicking on the release.<br>
+
   - 💻 Developed in <strong>Python</strong>, by <a href="https://discord.gg/JAU2hJduGR">Sanzokua & MyDream</a><br>
   
   - ✅ This tool combines several features and is meant for <strong>legal and ethical use<strong> only. The author is <strong>not responsible<strong> for any misuse.<br>
@@ -196,6 +197,5 @@
   - This project has been created with good intentions and is intended for personal use only.<br>
   - By choosing to use MS-Tools, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
   - All scripts in the "<a href="">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
-  - You need to download the tools by clicking on the release.<br>
 <br><br>
 </p>
