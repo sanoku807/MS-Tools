@@ -11,7 +11,7 @@
 <p align="center"> ⛔ You need to download the tools by click <a href="https://discord.gg/JAU2hJduGR">Here</a>
 
 
-  - 💻 Developed in <strong>Python</strong>, by <a href="https://discord.gg/JAU2hJduGR">Sanzokua & MyDream</a><br>
+  - 💻 Developed in <strong>Python</strong>, by Sanzokua & MyDream<br>
   
   - ✅ This tool combines several features and is meant for <strong>legal and ethical use<strong> only. The author is <strong>not responsible<strong> for any misuse.<br>
   
